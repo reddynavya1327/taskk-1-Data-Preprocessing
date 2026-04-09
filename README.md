@@ -15,3 +15,9 @@ Outliers in the dataset are detected using boxplots and removed using the IQR (I
 Finally, the cleaned dataset is saved as a new file named "cleaned_titanic.csv".
 
 This task helps in understanding the importance of data preprocessing, handling missing data, encoding categorical variables, feature scaling, and outlier removal in machine learning.
+
+## 📸 Output Screenshots
+
+### Output 1
+![Output1](screenshots/output1.png)
+
